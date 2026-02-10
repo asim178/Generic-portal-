@@ -1,0 +1,9 @@
+Theme kit generator
+ ~~~~~~~~~~ Run frontend ~~~~~~~~~~~~~~~
+1 go to the project folder
+2 run npm install
+3 run npm run dev
+   ~~~~~~~~~~ Run Backend ~~~~~~~~~~~~~~~
+1 go to the project folder
+2 then go to the backend folder
+2 run docker compose up please make readme.md file
